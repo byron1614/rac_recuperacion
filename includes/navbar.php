@@ -63,11 +63,11 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link  dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" >
-                        Detalle app
+                        Reportes
                     </a>
                     <ul class="dropdown-menu bg-dark">
                         <li class="nav-item">
-                            <a class="nav-link" href="/rac_recuperacion/vistas/detalle/index.php">Registro de detalle </a>
+                            <a class="nav-link" href="/rac_recuperacion/vistas/detalle/index.php">Reportes App </a>
                         </li>
                    
                     </ul>

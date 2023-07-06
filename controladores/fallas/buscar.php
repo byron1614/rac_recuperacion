@@ -31,8 +31,8 @@ try {
                         <tr>
                             <th>NO. </th>
                             <th>APLICACÓN</th>
-                            <th>falla</th>
-                            <th>falla</th>
+                            <th>FALLA</th>
+                            <th>FALLA</th>
                             <th>MODIFICAR</th>
                             <th>ELIMINAR</th>
                         </tr>

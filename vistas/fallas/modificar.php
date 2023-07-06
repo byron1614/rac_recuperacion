@@ -17,7 +17,7 @@ try {
     $app = new Aplicacion($_GET);
     
     $Aplicacion = $app->buscar();
-   var_dump($Aplicacion);
+
 } catch (PDOException $e) {
     $error = $e->getMessage();
 } catch (Exception $e2){

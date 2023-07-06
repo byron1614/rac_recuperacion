@@ -12,7 +12,7 @@ if ($_POST != '') {
         $datosfallas['fal_fecha'] = $fechaFormateada;
         $Fallas = new Fallas($datosfallas);
 
-var_dump($Fallas);
+
         $resultado = $Fallas->modificar();
         $error = "NO se guardó correctamente";
     } catch (PDOException $e) {
